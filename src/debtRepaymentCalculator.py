@@ -172,6 +172,7 @@ def add_new_cc(four_digits: int, remaining_balance: float, cleared_by: str) -> N
         ]
         file.write(json.dumps(entry) + "\n")
         file.close()
+    print("\nNew Card added successfully!\n")
 
 
 def add_payment(four_digits: int, amount_paid: float) -> None:
