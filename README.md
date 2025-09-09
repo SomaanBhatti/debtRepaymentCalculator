@@ -40,3 +40,12 @@ After some research I found that my code was reading the line in the txt file as
 Using this library I was able to read from and write to the txt file using json.loads and json.dumps.
 
 I have also reformatted the file using the "black" python library for easy viewing of the code.
+
+## Evaluation
+
+Overall, a fun little weekend project which doesn't take long but helps me practice what I've learned.
+In the future, would be nice to implement the following features:
+
+1. Include functionality that would allow me to calculate repayments for debt which is not interest free.
+2. Ability to remove entire rows from the table.
+3. Any other recommendations or feedback implemented. 
