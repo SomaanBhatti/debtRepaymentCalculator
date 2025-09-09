@@ -1,7 +1,7 @@
 # debtRepaymentCalculator
 Program to calculate average repayments of your interest free credit card debts and how long it will take to clear your debt.
 
-Add the program to your computer and you can use it straight away. 
+Add the program to your computer and you can use it straight away. Just download the src folder and add it to your desired folder.
 
 WARNING!
 THIS PROGRAM IS NOT PASSWORD PROTECTED AND DOES NOT INCLUDE ANY SECURITY FEATURES.
